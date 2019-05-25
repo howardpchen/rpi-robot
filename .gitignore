@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+VL53L0X_rasp_python/
